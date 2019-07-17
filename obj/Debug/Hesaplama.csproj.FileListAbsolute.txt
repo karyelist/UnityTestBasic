@@ -1,0 +1,6 @@
+C:\Users\Developer01\source\repos\Hesaplama\bin\Debug\Hesaplama.dll
+C:\Users\Developer01\source\repos\Hesaplama\bin\Debug\Hesaplama.pdb
+C:\Users\Developer01\source\repos\Hesaplama\obj\Debug\Hesaplama.csprojAssemblyReference.cache
+C:\Users\Developer01\source\repos\Hesaplama\obj\Debug\Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Developer01\source\repos\Hesaplama\obj\Debug\Hesaplama.dll
+C:\Users\Developer01\source\repos\Hesaplama\obj\Debug\Hesaplama.pdb
